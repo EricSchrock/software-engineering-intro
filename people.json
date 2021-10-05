@@ -1,0 +1,6 @@
+{
+    "people" : [
+        { "name" : "Alice", "favorite restaurant" : "Chipotle", "blacklist" : []},
+        { "name" : "Bob", "favorite restaurant" : "Domino's", "blacklist" : [] },
+    ]
+}
