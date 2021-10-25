@@ -21,9 +21,9 @@ Since this is intended for people with no programming or engineering background,
 ## Course Outline
 
 * [Setting up your development environment](development_environment.md)
+* [Learning Python](learning_python.md)
 * [Setting up your GitHub account](github_setup.md)
 * [Version control](version_control.md)
-* [Learning Python](learning_python.md)
 * [Pull requests and code reviews](code_reviews.md)
 * [Documentation and Markdown](documentation.md)
 * [Enablers](enablers.md)
